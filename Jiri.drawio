@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-15T18:41:46.149Z" agent="5.0 (X11)" etag="uhtkMk0bIXBX3_-7LR5k" version="12.9.13" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-15T18:44:53.508Z" agent="5.0 (X11)" etag="g53KnKynOuhtOkG__eLu" version="12.9.13" type="github">
   <diagram id="e5zmtrrgPIbbWgzgqXBb" name="Page-1">
     <mxGraphModel dx="821" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,9 +15,6 @@
             <mxPoint x="400" y="270" as="sourcePoint" />
             <mxPoint x="450" y="220" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="VYg63ry91aRJ3OjFoSVQ-4" value="&lt;div&gt;Test FR&lt;/div&gt;&lt;div&gt;corpus&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VYg63ry91aRJ3OjFoSVQ-5" value="Test" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VYg63ry91aRJ3OjFoSVQ-4" target="VYg63ry91aRJ3OjFoSVQ-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -61,6 +58,11 @@
             <mxPoint x="250" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VYg63ry91aRJ3OjFoSVQ-18" value="Transfer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VYg63ry91aRJ3OjFoSVQ-13">
+          <mxGeometry x="0.3072" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VYg63ry91aRJ3OjFoSVQ-14" value="&lt;div&gt;predict&lt;/div&gt;" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VYg63ry91aRJ3OjFoSVQ-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="270" as="sourcePoint" />
@@ -83,6 +85,17 @@
             <mxPoint x="400" y="270" as="sourcePoint" />
             <mxPoint x="450" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VYg63ry91aRJ3OjFoSVQ-19" value="Transfer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VYg63ry91aRJ3OjFoSVQ-16">
+          <mxGeometry x="0.2446" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VYg63ry91aRJ3OjFoSVQ-20" value="Dev FR for hyper-parms tuning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VYg63ry91aRJ3OjFoSVQ-4" value="&lt;div&gt;Test FR&lt;/div&gt;&lt;div&gt;corpus&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
