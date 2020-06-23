@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-06-23T13:26:47.577Z" agent="5.0 (X11)" version="13.3.1" etag="MeWKMgeGIXkOEQaVtlzn" type="github"><diagram id="8PiFhN0lOcC597OMzhLN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-23T13:29:28.764Z" agent="5.0 (X11)" etag="gbc6ozK6DWLesvPvpJvh" version="13.3.1" type="github">
+  <diagram id="8PiFhN0lOcC597OMzhLN" name="Page-1">
+    <mxGraphModel dx="999" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tEIT_M-lIr8KalQBd7Zy-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tEIT_M-lIr8KalQBd7Zy-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tEIT_M-lIr8KalQBd7Zy-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="140" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tEIT_M-lIr8KalQBd7Zy-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tEIT_M-lIr8KalQBd7Zy-5" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tEIT_M-lIr8KalQBd7Zy-6" value="Words embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="110" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tEIT_M-lIr8KalQBd7Zy-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="140" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tEIT_M-lIr8KalQBd7Zy-8" value="&lt;div&gt;Multi-head&lt;/div&gt;&lt;div&gt;self-attention&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tEIT_M-lIr8KalQBd7Zy-9" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tEIT_M-lIr8KalQBd7Zy-4" target="tEIT_M-lIr8KalQBd7Zy-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="360" as="sourcePoint" />
+            <mxPoint x="450" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tEIT_M-lIr8KalQBd7Zy-10" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tEIT_M-lIr8KalQBd7Zy-8" target="tEIT_M-lIr8KalQBd7Zy-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="360" as="sourcePoint" />
+            <mxPoint x="450" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tEIT_M-lIr8KalQBd7Zy-11" value="Sentence embedding" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="110" width="125" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
