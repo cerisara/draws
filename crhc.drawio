@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2020-07-21T14:59:53.327Z" agent="5.0 (X11)" version="13.4.9" etag="2sBQCHcc2ddCXjURQqkl" type="github"><diagram id="MATgrDwfrLcKSW5Ufle3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-21T15:13:13.870Z" agent="5.0 (X11)" etag="OaoxQCQQELIp2sUbbl7v" version="13.4.9" type="github">
+  <diagram id="MATgrDwfrLcKSW5Ufle3" name="Page-1">
+    <mxGraphModel dx="984" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R2cJoj7yYQaVReeNG7qh-2" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=70;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="179" y="40" width="160" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="R2cJoj7yYQaVReeNG7qh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="160" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="R2cJoj7yYQaVReeNG7qh-3" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="160" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="R2cJoj7yYQaVReeNG7qh-4" value="Machine Learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="199" y="20" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R2cJoj7yYQaVReeNG7qh-5" value="NLP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="340" y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R2cJoj7yYQaVReeNG7qh-6" value="Speech" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="80" y="20" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R2cJoj7yYQaVReeNG7qh-7" value="Dialog Acts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="100" y="50" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R2cJoj7yYQaVReeNG7qh-8" value="&lt;div&gt;Confidance for&lt;br&gt;&lt;/div&gt;&lt;div&gt;Text2Speech alignment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2cJoj7yYQaVReeNG7qh-9" value="Unsup. risk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="250" y="171" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R2cJoj7yYQaVReeNG7qh-10" value="&lt;div&gt;Anomaly&lt;/div&gt;&lt;div&gt;detection&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="250" y="201" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2cJoj7yYQaVReeNG7qh-11" value="Sentiment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;opacity=70;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="110" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R2cJoj7yYQaVReeNG7qh-12" value="Summarization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;opacity=70;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="140" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R2cJoj7yYQaVReeNG7qh-13" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="275" as="sourcePoint" />
+            <mxPoint x="460" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R2cJoj7yYQaVReeNG7qh-14" value="2020" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="10" y="263" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R2cJoj7yYQaVReeNG7qh-15" value="&lt;div&gt;Federated&lt;/div&gt;&lt;div&gt;deep learning&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="250" y="283" width="80" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="R2cJoj7yYQaVReeNG7qh-16" value="Dialog generation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;opacity=70;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="325" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R2cJoj7yYQaVReeNG7qh-17" value="Audio2Text captioning" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;opacity=70;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="100" y="325" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R2cJoj7yYQaVReeNG7qh-18" value="&lt;div&gt;Progressive&lt;/div&gt;&lt;div&gt;training&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="250" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
