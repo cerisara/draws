@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-21T15:17:43.655Z" agent="5.0 (X11)" etag="JQJuNpPom408CRLtRnto" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-21T15:19:49.810Z" agent="5.0 (X11)" etag="eI3vCBo7iZWTasMxx27e" version="13.4.9" type="github">
   <diagram id="MATgrDwfrLcKSW5Ufle3" name="Page-1">
     <mxGraphModel dx="984" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,6 +63,12 @@
         </mxCell>
         <mxCell id="R2cJoj7yYQaVReeNG7qh-19" value="&lt;div&gt;DL for&lt;/div&gt;&lt;div&gt;I4.0&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;opacity=70;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="232" y="340" width="50" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="R2cJoj7yYQaVReeNG7qh-20" value="&lt;font style=&quot;font-size: 150px&quot; face=&quot;Courier New&quot;&gt;}&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="440" y="121" width="80" height="219" as="geometry" />
+        </mxCell>
+        <mxCell id="R2cJoj7yYQaVReeNG7qh-21" value="Weakly supervised training" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="490" y="209" width="90" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
