@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-15T10:09:32.726Z" agent="5.0 (X11)" etag="LxzIpzIMfL2dsctHL7RI" version="13.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-15T10:09:53.300Z" agent="5.0 (X11)" etag="60EGszcDdD57olfxvwrT" version="13.9.8" type="github">
   <diagram id="iawH8SXD4Fo3blzsakv6" name="Page-1">
     <mxGraphModel dx="1038" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -84,6 +84,18 @@
         </mxCell>
         <mxCell id="GH0ps6fWW1b3ndXHNGNv-24" value="&lt;div align=&quot;center&quot;&gt;Performance on text benchmark&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="190" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-25" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GH0ps6fWW1b3ndXHNGNv-4" target="GH0ps6fWW1b3ndXHNGNv-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-26" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GH0ps6fWW1b3ndXHNGNv-9" target="GH0ps6fWW1b3ndXHNGNv-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
