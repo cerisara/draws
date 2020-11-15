@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-11-15T09:31:42.029Z" agent="5.0 (X11)" etag="Qf6x6yckyw-ESduhN2B9" version="13.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-15T10:09:32.726Z" agent="5.0 (X11)" etag="LxzIpzIMfL2dsctHL7RI" version="13.9.8" type="github">
   <diagram id="iawH8SXD4Fo3blzsakv6" name="Page-1">
     <mxGraphModel dx="1038" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GH0ps6fWW1b3ndXHNGNv-1" value="Next line prediction" style="rounded=1;whiteSpace=wrap;html=1;noLabel=0;portConstraint=none;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-1" value="Next log prediction" style="rounded=1;whiteSpace=wrap;html=1;noLabel=0;portConstraint=none;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="150" y="80" width="110" height="130" as="geometry" />
         </mxCell>
         <mxCell id="GH0ps6fWW1b3ndXHNGNv-2" value="Representation learning" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
@@ -31,7 +31,7 @@
         <mxCell id="GH0ps6fWW1b3ndXHNGNv-9" value="Unsupervised&lt;br&gt;risk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="285" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GH0ps6fWW1b3ndXHNGNv-10" value="Batch of log lines" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-10" value="Sequence of logs" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="10" y="155" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GH0ps6fWW1b3ndXHNGNv-11" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GH0ps6fWW1b3ndXHNGNv-10" target="GH0ps6fWW1b3ndXHNGNv-1">
@@ -63,6 +63,27 @@
             <mxPoint x="400" y="340" as="sourcePoint" />
             <mxPoint x="450" y="290" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-17" value="Prediction accuracy &amp;gt; 90%" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="490" y="80" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-20" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GH0ps6fWW1b3ndXHNGNv-1" target="GH0ps6fWW1b3ndXHNGNv-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-21" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;" vertex="1" parent="1">
+          <mxGeometry x="490" y="170" width="90" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-22" value="AUC = 90%" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="240" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-23" value="AUC = 95%" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-24" value="&lt;div align=&quot;center&quot;&gt;Performance on text benchmark&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="190" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
