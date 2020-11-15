@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2020-11-15T09:13:12.926Z" agent="5.0 (X11)" version="13.9.8" etag="Wuus4up_evi_6Xpi1CZn" type="github"><diagram id="iawH8SXD4Fo3blzsakv6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-15T09:31:42.029Z" agent="5.0 (X11)" etag="Qf6x6yckyw-ESduhN2B9" version="13.9.8" type="github">
+  <diagram id="iawH8SXD4Fo3blzsakv6" name="Page-1">
+    <mxGraphModel dx="1038" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-1" value="Next line prediction" style="rounded=1;whiteSpace=wrap;html=1;noLabel=0;portConstraint=none;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="150" y="80" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-2" value="Representation learning" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="150" y="230" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-3" value="Likelihood-based Anomaly score" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="130" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-4" value="Deep SVDD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="235" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-5" value="LSTM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-6" value="DAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-7" value="Attention mod." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="170" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-8" value="LSTM&lt;br&gt;Auto-Encoder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-9" value="Unsupervised&lt;br&gt;risk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="285" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-10" value="Batch of log lines" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="10" y="155" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-11" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GH0ps6fWW1b3ndXHNGNv-10" target="GH0ps6fWW1b3ndXHNGNv-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-12" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GH0ps6fWW1b3ndXHNGNv-10" target="GH0ps6fWW1b3ndXHNGNv-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-13" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GH0ps6fWW1b3ndXHNGNv-1" target="GH0ps6fWW1b3ndXHNGNv-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-14" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GH0ps6fWW1b3ndXHNGNv-2" target="GH0ps6fWW1b3ndXHNGNv-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GH0ps6fWW1b3ndXHNGNv-16" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GH0ps6fWW1b3ndXHNGNv-2" target="GH0ps6fWW1b3ndXHNGNv-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
