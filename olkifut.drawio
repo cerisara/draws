@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T14:03:38.219Z" agent="5.0 (X11)" etag="9ex56c3jkzLNcz5q0AM1" version="14.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T14:06:04.407Z" agent="5.0 (X11)" etag="qzGHDl4txVK4G6dMlBfQ" version="14.1.4" type="github">
   <diagram id="jwFYk2Ug_IVRdMCMzFOf" name="Page-1">
     <mxGraphModel dx="995" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="480" y="90" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1qzN0WhD0Q25md7kBHT2-12" value="formation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="210" width="40" height="20" as="geometry" />
+          <mxGeometry x="390" y="250" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1qzN0WhD0Q25md7kBHT2-13" value="épistémologie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="300" width="90" height="20" as="geometry" />
