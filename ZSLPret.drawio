@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T09:19:05.413Z" agent="5.0 (X11)" etag="naRJVfkybrVo2sooRxLU" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-20T09:22:49.880Z" agent="5.0 (X11)" etag="54ih-y9D9kW2mcxZ24MN" version="16.6.5" type="github">
   <diagram id="TIo3-JE8RYAdE-eYKafk" name="Page-1">
     <mxGraphModel dx="746" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -105,6 +105,33 @@
         </mxCell>
         <mxCell id="6OfOJ0zayBAvBgIOVWfl-29" value="SVM..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="347" y="272" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6OfOJ0zayBAvBgIOVWfl-30" value="embedding" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="287" y="342" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6OfOJ0zayBAvBgIOVWfl-31" value="Pre-trained&lt;br&gt;model" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="192" y="439" width="98" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6OfOJ0zayBAvBgIOVWfl-32" value="I do not hate him" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="62" y="444" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6OfOJ0zayBAvBgIOVWfl-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="6OfOJ0zayBAvBgIOVWfl-32" target="6OfOJ0zayBAvBgIOVWfl-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="312" y="619" as="sourcePoint" />
+            <mxPoint x="362" y="569" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6OfOJ0zayBAvBgIOVWfl-34" value="&lt;div align=&quot;left&quot;&gt;0.2 (positive)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;0.6 (neutral)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;0.2 (negative)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="347" y="444" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6OfOJ0zayBAvBgIOVWfl-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="276" y="449" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6OfOJ0zayBAvBgIOVWfl-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="6OfOJ0zayBAvBgIOVWfl-34" source="6OfOJ0zayBAvBgIOVWfl-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="392" y="458" as="sourcePoint" />
+            <mxPoint x="272" y="408" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
