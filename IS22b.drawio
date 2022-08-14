@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-08-14T13:51:49.627Z" agent="5.0 (X11)" version="17.4.6" etag="5igtMSqA2ta4krR4cxWs" type="github"><diagram id="NeP_3bgP2n9aXL8j2lcb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-14T13:56:56.287Z" agent="5.0 (X11)" etag="tXBaTNBdlV8DCi5Q0DUn" version="17.4.6" type="github">
+  <diagram id="NeP_3bgP2n9aXL8j2lcb" name="Page-1">
+    <mxGraphModel dx="622" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AQNYTgtyZc-HCgKmiTUG-1" value="&lt;div&gt;Pretrained&lt;/div&gt;&lt;div&gt;Language Model&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#ffffff;fillColor=#EA6B66;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="404" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQNYTgtyZc-HCgKmiTUG-2" value="Target task" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="70" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AQNYTgtyZc-HCgKmiTUG-9" value="Engineer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#EA6B66;gradientColor=#ffffff;gradientDirection=west;" vertex="1" parent="1">
+          <mxGeometry x="250" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AQNYTgtyZc-HCgKmiTUG-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AQNYTgtyZc-HCgKmiTUG-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="230" as="sourcePoint" />
+            <mxPoint x="280" y="118" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQNYTgtyZc-HCgKmiTUG-11" value="The sentiment of the previous text is ..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="255" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AQNYTgtyZc-HCgKmiTUG-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="180" as="sourcePoint" />
+            <mxPoint x="210" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQNYTgtyZc-HCgKmiTUG-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AQNYTgtyZc-HCgKmiTUG-11" target="AQNYTgtyZc-HCgKmiTUG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="230" as="sourcePoint" />
+            <mxPoint x="460" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQNYTgtyZc-HCgKmiTUG-14" value="&lt;i&gt;prompting&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
