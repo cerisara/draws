@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T11:08:44.479Z" agent="5.0 (X11)" version="20.2.4" etag="-BA5t1UHRoUEOBcw1qEb" type="github"><diagram id="C1ThwtVZtTPy57nU7KmP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-16T11:34:40.361Z" agent="5.0 (X11)" etag="SIKVN9ApuSU6GT-VFsUr" version="20.2.4" type="github">
+  <diagram id="C1ThwtVZtTPy57nU7KmP" name="Page-1">
+    <mxGraphModel dx="622" dy="343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7iM5Y9_anPuIfUK76eyL-1" value="NLP large pretrained models" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7iM5Y9_anPuIfUK76eyL-2" value="Deep Learning" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7iM5Y9_anPuIfUK76eyL-3" value="Ethics" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7iM5Y9_anPuIfUK76eyL-4" value="SHS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="192" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7iM5Y9_anPuIfUK76eyL-5" value="IA formelle" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="508" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7iM5Y9_anPuIfUK76eyL-6" value="&lt;div align=&quot;left&quot;&gt;D1: vision&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;D2: sécurité&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;D3: federated learning&lt;br&gt;&lt;/div&gt;&lt;div&gt;D4: parole, fouille, traduction&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;D5: Kiwi&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="25.5" width="200" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="7iM5Y9_anPuIfUK76eyL-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="170" as="sourcePoint" />
+            <mxPoint x="390" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7iM5Y9_anPuIfUK76eyL-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="270" as="sourcePoint" />
+            <mxPoint x="390" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7iM5Y9_anPuIfUK76eyL-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="220" as="sourcePoint" />
+            <mxPoint x="490" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7iM5Y9_anPuIfUK76eyL-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="220" as="sourcePoint" />
+            <mxPoint x="290" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7iM5Y9_anPuIfUK76eyL-17" value="D4: fouille, logique&lt;br&gt;&lt;div align=&quot;left&quot;&gt;AHP&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="511" y="252.5" width="139" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7iM5Y9_anPuIfUK76eyL-18" value="&lt;div align=&quot;left&quot;&gt;D2: privacy&lt;/div&gt;&lt;div&gt;D4: speech, ethic&amp;amp;TAL&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;AHP&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="428" y="350" width="139" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7iM5Y9_anPuIfUK76eyL-19" value="&lt;div align=&quot;left&quot;&gt;ATILF&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;CREM&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;AHP&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195.5" y="260" width="77.5" height="67.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
