@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T11:42:35.940Z" agent="5.0 (X11)" etag="NdnSvsQ8dWH_rP8wlfg_" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T12:14:16.389Z" agent="5.0 (X11)" etag="LtdwJQZQpZ3G9USCBA3u" version="20.2.4" type="github">
   <diagram id="C1ThwtVZtTPy57nU7KmP" name="Page-1">
     <mxGraphModel dx="622" dy="343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="7iM5Y9_anPuIfUK76eyL-5" value="IA formelle" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="508" y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7iM5Y9_anPuIfUK76eyL-6" value="&lt;div align=&quot;left&quot;&gt;D1: vision&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;D2: sécurité&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;D3: federated learning&lt;br&gt;&lt;/div&gt;&lt;div&gt;D4: parole, fouille, traduction&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;D5: Kiwi&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7iM5Y9_anPuIfUK76eyL-6" value="&lt;div align=&quot;left&quot;&gt;D1: vision&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;D2: sécurité&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;D3: federated learning&lt;br&gt;&lt;/div&gt;&lt;div&gt;D4: parole, fouille, traduction&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;D5: Kiwi&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;CRAN&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="25.5" width="200" height="109" as="geometry" />
         </mxCell>
         <mxCell id="7iM5Y9_anPuIfUK76eyL-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="7iM5Y9_anPuIfUK76eyL-17" value="D4: fouille, logique&lt;br&gt;&lt;div align=&quot;left&quot;&gt;AHP&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="511" y="252.5" width="139" height="67.5" as="geometry" />
         </mxCell>
-        <mxCell id="7iM5Y9_anPuIfUK76eyL-18" value="&lt;div align=&quot;left&quot;&gt;D2: privacy&lt;/div&gt;&lt;div&gt;D4: speech, ethic&amp;amp;TAL&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;AHP&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7iM5Y9_anPuIfUK76eyL-18" value="&lt;div align=&quot;left&quot;&gt;D2: privacy&lt;/div&gt;&lt;div&gt;D4: speech, ethic&amp;amp;TAL&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;AHP&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;CRAN&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="428" y="350" width="139" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="7iM5Y9_anPuIfUK76eyL-19" value="&lt;div align=&quot;left&quot;&gt;ATILF&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;CREM&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;AHP&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
